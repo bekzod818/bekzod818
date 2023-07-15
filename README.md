@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![Bekzod's github stats](https://github-readme-stats.vercel.app/api?username=bekzod818&theme=github_dark&show_icons=true)](https://github.com/bekzod818/)
 <!-- Readme Docs: https://github.com/anuraghazra/github-readme-stats -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bekzod818&theme=tokyonight_duo&hide_border=true)](https://github.com/bekzod818/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bekzod818&theme=tokyonight_duo&hide_border=true)]([https://github.com/bekzod818/](https://wakatime.com/@bekzod818))
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 
 
