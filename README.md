@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bekzod818&theme=github_dark" alt="info">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bekzod818&theme=github_dark&show_icons=true)](https://github.com/bekzod818/) [![Bekzod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bekzod818)](https://wakatime.com/@c456c315-79a0-4119-8f29-54399483d36a)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bekzod818&theme=github_dark&show_icons=true)](https://github.com/bekzod818/) [![Bekzod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bekzod818&theme=github_dark&layout=compact)](https://wakatime.com/@c456c315-79a0-4119-8f29-54399483d36a)
 
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5355808/139111924-210cc6fa-9fb1-4dac-929d-6324a5836a92.gif" width="250" height="200" />
