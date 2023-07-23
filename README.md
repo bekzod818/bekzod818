@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bekzod818&theme=github_dark" alt="info">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bekzod818&theme=github_dark&show_icons=true)](https://github.com/bekzod818/) [![Bekzod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bekzod818&theme=github_dark&layout=compact)](https://wakatime.com/@c456c315-79a0-4119-8f29-54399483d36a)
@@ -82,30 +84,3 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/ios/96/26e07f/django.png"/>
 <img src="https://img.icons8.com/color/96/000000/postgreesql.png"/>
 </p>
-
-------------
-
-![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
-
-```
-                             \\\\\\\
-                            \\\\\\\\\\\\
-                          \\\\\\\\\\\\\\\
-  -----------,-|           |C>   // )\\\\|
-           ,','|          /    || ,'/////|
----------,','  |         (,    ||   /////
-         ||    |          \\  ||||//''''|
-         ||    |           |||||||     _|
-         ||    |______      `````\____/ \
-         ||    |     ,|         _/_____/ \
-         ||  ,'    ,' |        /          |
-         ||,'    ,'   |       |         \  |
-_________|/    ,'     |      /           | |
-_____________,'      ,',_____|      |    | |
-             |     ,','      |      |    | |
-             |   ,','    ____|_____/    /  |
-             | ,','  __/ |             /   |
-_____________|','   ///_/-------------/   |
-              |===========|
-```
-
