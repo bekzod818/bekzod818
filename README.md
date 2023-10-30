@@ -84,3 +84,5 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/ios/96/26e07f/django.png"/>
 <img src="https://img.icons8.com/color/96/000000/postgreesql.png"/>
 </p>
+
+<a href="https://wakatime.com/@c456c315-79a0-4119-8f29-54399483d36a"><img src="https://wakatime.com/badge/user/c456c315-79a0-4119-8f29-54399483d36a.svg" alt="Total time coded since Jul 15 2023" /></a>
