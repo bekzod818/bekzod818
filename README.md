@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bekzod818&theme=github_dark&show_icons=true)](https://github.com/bekzod818/) [![Bekzod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bekzod818&theme=github_dark&layout=compact)](https://wakatime.com/@c456c315-79a0-4119-8f29-54399483d36a)
 
+<a href="https://wakatime.com/@c456c315-79a0-4119-8f29-54399483d36a"><img src="https://wakatime.com/badge/user/c456c315-79a0-4119-8f29-54399483d36a.svg" alt="Total time coded since Jul 15 2023" /></a>
+
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5355808/139111924-210cc6fa-9fb1-4dac-929d-6324a5836a92.gif" width="250" height="200" />
 
@@ -84,5 +86,3 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/ios/96/26e07f/django.png"/>
 <img src="https://img.icons8.com/color/96/000000/postgreesql.png"/>
 </p>
-
-<a href="https://wakatime.com/@c456c315-79a0-4119-8f29-54399483d36a"><img src="https://wakatime.com/badge/user/c456c315-79a0-4119-8f29-54399483d36a.svg" alt="Total time coded since Jul 15 2023" /></a>
