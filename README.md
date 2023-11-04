@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about programming, problem solving and etc.
 - 📫 How to reach me: bekzod030900@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
 
