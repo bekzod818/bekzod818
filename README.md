@@ -6,7 +6,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on web backend development.
 - 🌱 I’m currently learning programming
-- 👯 I’m looking to collaborate on ...
 - 💬 Ask me about programming, problem solving and etc.
 - 📫 How to reach me: bekzod030900@gmail.com
 
