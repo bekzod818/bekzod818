@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on web backend development.
 - 🌱 I’m currently learning programming
-- 💬 Ask me about programming, problem-solving and, etc.
+- 💬 Ask me about programming, problem-solving, etc.
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
 
