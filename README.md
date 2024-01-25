@@ -1,12 +1,54 @@
-### Hi there, I come back 👋
+## Bekzod Raximov (Python Developer)
+Khorezm, Uzbekistan | (+998) (91) 437-97-33 | b.rakhiimov@gmail.com | Github | Telegram | LinkedIn
 
-**bekzod818/bekzod818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
 
-Here are some ideas to get you started:
+Python, Django, Django REST Framework, PostgreSQL, Redis, Celery, Docker, CI/CD, Git, Github, Testing
 
-- 🔭 I’m currently working on web backend development.
-- 🌱 I’m currently learning programming
-- 💬 Ask me about programming, problem-solving, etc.
+### Work Experience
+
+**Backend Developer Tashkent, Uzbekistan “Botcommerce” (SaaS platform for SME) May 2022 - Present**
+
+● Led the development of a robust queue service for managing asynchronous tasks, significantly enhancing user
+experience and boosting system efficiency.
+● Resolved and fixed N + 1 query challenges through strategic implementations of JOINs and caching systems,
+resulting in optimized database performance.
+● Orchestrated a database query overhaul, achieving a notable 50% reduction in page loading time.
+● Implemented Facebook login (Social Authorization) which is used daily by more than 20% of users.
+● Contributed to add and improve unit tests that increased test coverage rate by 15%
+● Integrated payment services like Payme, Click, Payze, Stripe, Adyen, and AlifNasiya which processed payments of
+more than 4,000 orders.
+● Executed the seamless migration of file storage to DigitalOcean S3 bucket, leading to a substantial improvement in
+the overall system's performance.
+● Collaboratively debugged with the team, swiftly identifying and fixing the issue within a few hours to minimize
+downtime and ensure a positive user experience.
+“Epocket” (Retail and e-commerce analytics platform) Aug 2023 - Present
+● Developed full operational capabilities for registration, login, and password change, crucial for comprehensive user
+data management.
+● Implemented a WebSocket solution for real-time customer notifications, elevating engagement.
+● Boosted page loading speed by 50% with efficient SQL join queries.
+● Added functionality to export comprehensive statistics to an Excel file.
+
+**Software Engineer Khorezm, Uzbekistan “Data Union” OOO Sep 2021 - Apr 2023**
+
+● Proficiently utilized Python in the Django web framework, employing Git for version control to create diverse
+front-end and back-end modules.
+● Actively contributed to the optimization of existing back-end code across multiple services, ensuring efficient project
+execution.
+● Demonstrated expertise in building robust APIs and Telegram bots, managing DevOps responsibilities for seamless
+project deployment.
+
+**Software Engineer Khorezm, Uzbekistan “Khorezm innovation and software solutions” Jan 2021 - Aug 2021**
+
+● Developed websites and bots, employing parsing techniques for efficient data extraction and transformation.
+● Led and mentored junior team members.\
+
+### Education
+
+**Bachelor (Information Security GPA 4.9/5) Khorezm, Uzbekistan “Tashkent University of Information Technologies” Sep 2018 - Jun 2022**
+
+● Computer science, Data structure, Cybersecurity, Cryptography, etc.
+● Successfully completed studies, earning a red diploma for outstanding academic achievement.
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
 
