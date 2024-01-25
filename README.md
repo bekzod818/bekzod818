@@ -1,5 +1,5 @@
 ## Bekzod Raximov (Python Developer)
-Khorezm, Uzbekistan | (+998) (91) 437-97-33 | b.rakhiimov@gmail.com | ![Telegram](https://t.me/BekzodRakhimov) | ![LinkedIn](https://www.linkedin.com/in/bekzod-raximov-505b441a9/)
+Khorezm, Uzbekistan | (+998) (91) 437-97-33 | b.rakhiimov@gmail.com
 
 ### Skills
 
@@ -64,7 +64,7 @@ project deployment.
 
 ● Computer science, Data structure, Cybersecurity, Cryptography, etc.
 
-● Successfully completed studies, earning a red diploma for outstanding academic achievement.
+● Completed studies, earning a red diploma for outstanding academic achievement.
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
 
@@ -117,8 +117,8 @@ project deployment.
 
 **Contact**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps:/www.linkedin.com/in/bekzod818/)](https://www.linkedin.com/in/bekzod818/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bekzod030900@gmail.com)](mailto:bekzod030900@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bekzod-raximov-505b441a9/)](https://www.linkedin.com/in/bekzod-raximov-505b441a9/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:b.rakhiimov@gmail.com)](mailto:b.rakhiimov@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/BekzodRakhimov)](https://t.me/BekzodRakhimov)
 
 <p> 
