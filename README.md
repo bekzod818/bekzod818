@@ -3,11 +3,20 @@ Khorezm, Uzbekistan | (+998) (91) 437-97-33 | b.rakhiimov@gmail.com
 
 ### Skills
 
-Python, Django, Django REST Framework, PostgreSQL, Redis, Celery, Docker, CI/CD, Git, Github, Testing
+Python, Django, Django REST Framework, FastAPI, PostgreSQL, Redis, Celery, Docker, CI/CD, Git, Github, Testing, Odoo
 
 ### Work Experience
 
-**Backend Developer Tashkent, Uzbekistan “Botcommerce” (SaaS platform for SME) May 2022 - Present**
+**Middle Python Developer Tashkent, Uzbekistan “UIC Group LLC” (SaaS platform for SME) Jan 2024 - Present**
+
+● Integrated Ngenius Global Dubai Payment system, thereby enhancing payment options for users and implementing the 3D-Secure process for added security.
+
+● Implemented Paylov payment integration for processing payment requests, ensuring secure payment processing within the application.
+
+● Utilized Odoo backend in conjunction with FastAPI to develop robust API solutions. Leveraged the flexibility of FastAPI for efficient communication between client-side applications and the Odoo backend, ensuring seamless integration and high-performance handling of requests.
+
+
+**Backend Developer Tashkent, Uzbekistan “Botcommerce” (SaaS platform for SME) May 2022 - Jan 2024**
 
 ● Led the development of a robust queue service for managing asynchronous tasks, significantly enhancing user
 experience and boosting system efficiency.
@@ -30,7 +39,7 @@ the overall system's performance.
 ● Collaboratively debugged with the team, swiftly identifying and fixing the issue within a few hours to minimize
 downtime and ensure a positive user experience.
 
-**“Epocket” (Retail and e-commerce analytics platform) Aug 2023 - Present**
+**“Epocket” (Retail and e-commerce analytics platform) Aug 2023 - Jan 2024**
 
 ● Developed full operational capabilities for registration, login, and password change, crucial for comprehensive user
 data management.
