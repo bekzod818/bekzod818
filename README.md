@@ -3,7 +3,7 @@ Khorezm, Uzbekistan | (+998) (91) 437-97-33 | b.rakhiimov@gmail.com
 
 ### Skills
 
-Python, Django, Django REST Framework, FastAPI, PostgreSQL, Redis, Celery, Docker, CI/CD, Git, Github, Testing, Odoo
+Python, Django, Django REST Framework, FastAPI, PostgreSQL, Redis, Celery, Docker, CI/CD, Git, Github, Gitlab, Testing, Odoo, Jira
 
 ### Work Experience
 
@@ -71,7 +71,7 @@ project deployment.
 
 **Bachelor (Information Security GPA 4.9/5) Khorezm, Uzbekistan “Tashkent University of Information Technologies” Sep 2018 - Jun 2022**
 
-● Computer science, Data structure, Cybersecurity, Cryptography, etc.
+● Computer science, Data structure, Cybersecurity, Cryptography, Hashing, etc.
 
 ● Completed studies, earning a red diploma for outstanding academic achievement.
 
