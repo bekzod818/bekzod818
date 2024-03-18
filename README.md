@@ -3,7 +3,7 @@ Khorezm, Uzbekistan | (+998) (91) 437-97-33 | b.rakhiimov@gmail.com
 
 ### Skills
 
-Python, Django, Django REST Framework, FastAPI, PostgreSQL, Redis, Celery, Docker, CI/CD, Git, Github, Gitlab, Testing, Odoo, Jira
+Python, Django, Django REST Framework, Django Ninja, FastAPI, PostgreSQL, Redis, Celery, Docker, CI/CD, Git, Github, Gitlab, Testing, Odoo, Jira
 
 ### Work Experience
 
