@@ -27,7 +27,10 @@
 **Databases**
 
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-%2300C7B7?style=flat-square&logo=mysql)
 ![SQLite](https://img.shields.io/badge/-Sqlite-%232c3e50?style=flat-square&logo=Sqlite)
+![MongoDB](https://img.shields.io/badge/-MongoDB-%2300C7B7?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-%2300C7B7?style=flat-square&logo=redis)
 
 **Front-end**
 
@@ -49,7 +52,7 @@
 
 **Contact**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bekzod-raximov-505b441a9/)](https://www.linkedin.com/in/bekzod-raximov-505b441a9/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bekzod-rakhimov/)](https://www.linkedin.com/in/bekzod-rakhimov/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:b.rakhiimov@gmail.com)](mailto:b.rakhiimov@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/BekzodRakhimov)](https://t.me/BekzodRakhimov)
 
